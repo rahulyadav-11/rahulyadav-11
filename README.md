@@ -1,7 +1,7 @@
 <html>
-  <b>TO KAISE HAI APP LOG </b>
+  <b> BLUE.purple </b>
   <H1>
-    SUNA HAI JALJALA ANE WALA HAI 
+  theBASICneed
   </H1>
 </html>
 - 👋 Hi, I’m @rahulyadav-11
